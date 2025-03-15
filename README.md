@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Michael Zaslavsky</h1>
-<h3 align="center">Senior Director of Software Engineering at Gravyty</h3>
+<h3 align="center">Senior Director of Engineering at Gravyty</h3>
 <img align="right" alt="Coding" width="300" src="https://i.postimg.cc/kMSkNxL6/Whats-App-Image-2022-10-22-at-13-00-11-removebg-preview.png">
 
 <p align="left">
